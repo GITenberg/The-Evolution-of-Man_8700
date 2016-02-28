@@ -1,0 +1,28 @@
+_repo: The-Evolution-of-Man_8700
+creator:
+  author:
+    agent_name: Haeckel, Ernst
+    alias: Haeckel, Ernst Heinrich Philipp August
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '2037'
+    url: http://www.gutenberg.org/2009/agents/2037
+    wikipedia: http://en.wikipedia.org/wiki/Ernst_Haeckel
+description: ''
+gutenberg_bookshelf: Anthropology
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Evolution'
+- !lcsh 'Embryology, Human'
+- !lcsh 'Human beings -- Origin'
+- !lcsh 'Anatomy, Comparative'
+title: The Evolution of Man
+url: http://www.gutenberg.org/ebooks/8700
