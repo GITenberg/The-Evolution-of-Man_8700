@@ -1,4 +1,8 @@
 _repo: The-Evolution-of-Man_8700
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haeckel, Ernst
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2037
     wikipedia: http://en.wikipedia.org/wiki/Ernst_Haeckel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8700#The-Evolution-of-Man
 gutenberg_bookshelf: Anthropology
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
